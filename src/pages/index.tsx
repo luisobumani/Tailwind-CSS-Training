@@ -3,7 +3,7 @@ export default function Home() {
     //    header & background
     <div className="font-bold"> 
 
-    <div className="h-screen bg-cover bg-center relative bg-[url('/images/awesomebackground .jpg')]"/>
+    <div className="h-screen bg-cover bg-center relative bg-[url('/images/awesomebackgroundcarsandhouses.jpg')]"/>
     
   
     </div> 
