@@ -7,8 +7,9 @@ export default function Home() {
 
       {/* Background */}
       <div className="absolute inset-0 bg-white z-20 opacity-60" />
+      
 
-      {/* Header */}
+      {/* Header Section */}
       <div className="relative z-30 flex items-center justify-center h-full">
         <div className="flex flex-col items-start w-[90vw] max-w-[900px] h-[50vh] max-h-[500px] p-4">
           <h1 className="text-blue-950 text-3xl sm:text-5xl font-sans mb-2">
@@ -19,8 +20,6 @@ export default function Home() {
           </h2>
         </div>
       </div>
-
-      {/* Columns */}
     </div>
   );
 }
