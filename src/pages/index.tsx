@@ -18,6 +18,9 @@ export default function Home() {
           <h2 className="text-green-900 text-2xl sm:text-4xl font-sans">
             P R O P E R T Y  L I S T
           </h2>
+
+
+          
         </div>
       </div>
     </div>
